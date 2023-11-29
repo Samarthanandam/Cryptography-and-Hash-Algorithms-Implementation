@@ -31,7 +31,8 @@ MD-5, a widely used hash function, generates a 128-bit hash value. While conside
     $ streamlit run app.py
     
 # Deployment 🌐
-Check out the live deployment here. Safeguard your messages with CryptoCraft Hub—because your data deserves a fortress! 🔐🏰
+Check out the live deployment here. [DEMO !](https://ciphercraftexpress.streamlit.app/)
+Safeguard your messages with CryptoCraft Hub—because your data deserves a fortress! 🔐🏰
 
 
 
