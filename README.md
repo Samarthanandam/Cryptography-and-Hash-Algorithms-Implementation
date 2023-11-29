@@ -21,22 +21,16 @@ MD-5, a widely used hash function, generates a 128-bit hash value. While conside
 
 # Installation 🛠️
 ## Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/CryptoCraft-Hub.git
+### Copy code
+$ git clone https://github.com/your-username/CryptoCraft-Hub.git
 cd CryptoCraft-Hub
 ## Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
+### Copy code
+$ pip install -r requirements.txt
 ## How to Run 🚀
 Execute the following command:
-
-bash
-Copy code
-streamlit run app.py
-Visit http://localhost:8501 in your browser to explore the CryptoCraft Hub.
-
+### Copy code
+$ streamlit run app.py
 # Deployment 🌐
 Check out the live deployment here. Safeguard your messages with CryptoCraft Hub—because your data deserves a fortress! 🔐🏰
 
