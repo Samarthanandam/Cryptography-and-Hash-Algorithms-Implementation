@@ -1,0 +1,3 @@
+pycryptodomex
+urllib3
+pybase64
