@@ -20,17 +20,16 @@ In a world where security is paramount, SHA-256 offers enhanced protection by ge
 MD-5, a widely used hash function, generates a 128-bit hash value. While considered less secure than SHA-256, MD-5 remains relevant in certain scenarios. CryptoCraft Hub's MD-5 implementation caters to users who require a quick and efficient hash function for specific use cases.
 
 # Installation 🛠️
-## Clone the repository:
-### Copy code
-$ git clone https://github.com/your-username/CryptoCraft-Hub.git
-cd CryptoCraft-Hub
 ## Install dependencies:
-### Copy code
-$ pip install -r requirements.txt
+### Install the requirements libraries using pip
+----------
+    $ pip install -r requirements.txt  
+
 ## How to Run 🚀
-Execute the following command:
-### Copy code
-$ streamlit run app.py
+### Type this command and run the project:
+----------
+    $ streamlit run app.py
+    
 # Deployment 🌐
 Check out the live deployment here. Safeguard your messages with CryptoCraft Hub—because your data deserves a fortress! 🔐🏰
 
